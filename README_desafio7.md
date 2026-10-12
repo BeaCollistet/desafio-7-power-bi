@@ -49,7 +49,7 @@ Projeto prático do desafio da DIO. Parti do relatório criativo fornecido no cu
 
 ## 🧠 O que aprendi
 
-[Escreva 1 ou 2 frases com suas palavras.]
+Aprendi a analisar um relatório do ponto de vista de quem vai usá-lo, observando navegação, segmentação, posicionamento e contraste. Na prática, melhorei a legibilidade dos botões de visão, deixando o texto maior e mais escuro.
 
 ## 🔗 Referências
 
